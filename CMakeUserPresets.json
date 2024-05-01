@@ -1,9 +1,0 @@
-{
-    "version": 4,
-    "vendor": {
-        "conan": {}
-    },
-    "include": [
-        "/Users/isaaclefrancois/Desktop/cpp-books-by-me/cpp-conan-header-only/build/Release/generators/CMakePresets.json"
-    ]
-}
